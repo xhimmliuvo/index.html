@@ -12,7 +12,7 @@ This is a **customer feedback form** for Dropee, designed to collect user rating
 - `index.html` → Main feedback form.
 
 ## 🛠 Deployment
-- Hosted on **Netlify**: [Your Netlify URL]
+- Hosted on **Netlify**: [https://dropee-ratings.netlify.app/]
 - To run locally, open `Dropee ratings.html` in a browser.
 
 ## 📧 Contact
